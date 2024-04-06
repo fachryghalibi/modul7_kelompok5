@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+       "firstName": "Fachry",
+       "lastName": "Ghalibi",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302223107"
+    },
+    {
+       "firstName": "Fadlan",
+       "lastName": "Kamal",
+       "gender": "male",
+       "age": 100,
+       "nim": "1302225018"
+    },
+    {
+       "firstName": "ihsan",
+       "lastName": "maulana",
+       "gender": "male",
+       "age": 2000,
+       "nim": "130222319431"
+    }
+  ]
+}
