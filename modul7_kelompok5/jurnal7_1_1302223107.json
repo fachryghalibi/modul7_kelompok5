@@ -1,0 +1,15 @@
+{
+   "firstName": "Fachruddin",
+   "lastName": "Ghalibi",
+   "gender": "male",
+   "age": 25,
+   "address": {
+       "streetAddress": "Kota Gajah",
+       "city": "Lampung",
+       "state": "Lampung"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2XX", "name": "Nama Mata Kuliah" }
+   ]
+}
